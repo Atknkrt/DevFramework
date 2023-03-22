@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ComplexType\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\DevFramework.Core\DevFramework.Core.csproj" />
   </ItemGroup>
 
